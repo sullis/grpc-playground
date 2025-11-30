@@ -20,3 +20,6 @@ GRPC example code
 - [Handling Traffic Spikes Through Automated Prioritized Load Shedding](https://www.youtube.com/watch?v=YRjvzdTmPfs) - Benjamin Fedorka grpconf 2025
 - [Reducing gRPC Call Volume Through Caching and Batching](https://www.youtube.com/watch?v=rym3kE8XEM4) - Benjamin Fedorka grpconf 2024
 - [How Netflix Makes gRPC Easy to Serve, Consume, and Operate](https://www.youtube.com/watch?v=NTf_2bzD7xM) - Benjamin Fedorka grpconf 2023
+
+# Spring Boot example app
+- [grpc-server](https://github.com/spring-projects/spring-grpc/blob/main/samples/grpc-server/pom.xml)
