@@ -17,5 +17,6 @@ GRPC example code
 - [Exposing gRPC Services as MCP Servers](https://www.youtube.com/watch?v=JF7HZwxStKI)
 
 # grpc at Netflix
+- [Handling Traffic Spikes Through Automated Prioritized Load Shedding](https://www.youtube.com/watch?v=YRjvzdTmPfs)
 - [Reducing gRPC Call Volume Through Caching and Batching](https://www.youtube.com/watch?v=rym3kE8XEM4) - Benjamin Fedorka
 - [How Netflix Makes gRPC Easy to Serve, Consume, and Operate](https://www.youtube.com/watch?v=NTf_2bzD7xM) - Benjamin Fedorka
