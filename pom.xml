@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.sullis.playground.grpc</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>spring-grpc-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo for Spring Boot GRPC</description>
+	<name>spring-grpc-demo</name>
+	<description>Demo for Spring Boot grpc</description>
 	<url/>
 	<licenses>
 	<license/>
