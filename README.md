@@ -23,3 +23,8 @@ GRPC example code
 
 # Spring Boot example app
 - [grpc-server](https://github.com/spring-projects/spring-grpc/blob/main/samples/grpc-server/pom.xml)
+
+# grpc and Wiremock
+- [infoq](https://www.infoq.com/articles/mocking-grpc-microservices/)
+- [wiremock-grpc-extension](https://github.com/wiremock/wiremock-grpc-extension)
+  
