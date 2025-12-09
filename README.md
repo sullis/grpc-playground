@@ -27,4 +27,7 @@ GRPC example code
 # grpc and Wiremock
 - [infoq](https://www.infoq.com/articles/mocking-grpc-microservices/)
 - [wiremock-grpc-extension](https://github.com/wiremock/wiremock-grpc-extension)
+
+# grpc Java helper libraries
+- [grpc-test](https://github.com/asarkar/grpc-test)
   
