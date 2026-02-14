@@ -4,7 +4,7 @@ GRPC example code
 
 # kubecon North America 2025
 - [Getting Started With gRPC: Hands-On Codelab](https://www.youtube.com/watch?v=kAuK6VcAR10)
-- [End-to-End Security With gRPC in Kubernetes](https://www.youtube.com/watch?v=fhjiLyntYBg)]
+- [End-to-End Security With gRPC in Kubernetes](https://www.youtube.com/watch?v=fhjiLyntYBg)
 
 # kubecon Europe 2025
 - [gRPC: 5 Years Later, Is It Still Worth It?](https://www.youtube.com/watch?v=q44WBAGzKhk)
@@ -15,6 +15,7 @@ GRPC example code
 - [Overview of gRPC](https://www.youtube.com/watch?v=FLxlfwZGImc)
 - [Building a gRPC Proxyless World: How Reddit Scaled Resilience with XDS](https://www.youtube.com/watch?v=iouDgY2Sv_s)
 - [Exposing gRPC Services as MCP Servers](https://www.youtube.com/watch?v=JF7HZwxStKI)
+- [grpc-rust](https://www.youtube.com/watch?v=l6YTt8ze4lI)
 
 # grpc at Netflix
 - [Handling Traffic Spikes Through Automated Prioritized Load Shedding](https://www.youtube.com/watch?v=YRjvzdTmPfs) - Benjamin Fedorka grpconf 2025
