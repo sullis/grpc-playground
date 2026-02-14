@@ -16,6 +16,7 @@ GRPC example code
 - [Building a gRPC Proxyless World: How Reddit Scaled Resilience with XDS](https://www.youtube.com/watch?v=iouDgY2Sv_s)
 - [Exposing gRPC Services as MCP Servers](https://www.youtube.com/watch?v=JF7HZwxStKI)
 - [grpc-rust](https://www.youtube.com/watch?v=l6YTt8ze4lI)
+- [Adobe grpc streaming](https://www.youtube.com/watch?v=xTTs9wlL0gk)
 
 # grpc at Netflix
 - [Handling Traffic Spikes Through Automated Prioritized Load Shedding](https://www.youtube.com/watch?v=YRjvzdTmPfs) - Benjamin Fedorka grpconf 2025
