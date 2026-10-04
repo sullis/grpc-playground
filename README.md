@@ -9,6 +9,14 @@ GRPC example code
 # kubecon Europe 2025
 - [gRPC: 5 Years Later, Is It Still Worth It?](https://www.youtube.com/watch?v=q44WBAGzKhk)
 
+# grpconf 2026
+- [Keynote: State of gRPC - Aspi Siganporia](https://www.youtube.com/watch?v=oW5AYOAqnOo)
+- [How Netflix Leverages gRPC for Resilience at Scale](https://www.youtube.com/watch?v=RZyy529VwFU)
+- [Proxyless gRPC Service Mesh for Rust](https://www.youtube.com/watch?v=73q0ZqJZ-SU)
+- [gRPC-Rust: Preview to Stable Release](https://www.youtube.com/watch?v=CWNVHDKhE9w)
+- [gRPC as an MCP Transport](https://www.youtube.com/watch?v=IFGZN9Anahg)
+- [What's new in gRPC Observability](https://www.youtube.com/watch?v=wCWmpQoa6qo)
+
 # grpconf 2025
 - [What's New in gRPC - Kevin Nilson](https://www.youtube.com/watch?v=pd_eE6N3iK8)
 - [gRPC: New Features and the Road Ahead](https://www.youtube.com/watch?v=zpzUCAlnoXA)
@@ -19,6 +27,7 @@ GRPC example code
 - [Adobe grpc streaming](https://www.youtube.com/watch?v=xTTs9wlL0gk)
 
 # grpc at Netflix
+- [How Netflix Leverages gRPC for Resilience at Scale](https://www.youtube.com/watch?v=RZyy529VwFU) - Olivia Bronstein, Umair Khan grpconf 2026
 - [Handling Traffic Spikes Through Automated Prioritized Load Shedding](https://www.youtube.com/watch?v=YRjvzdTmPfs) - Benjamin Fedorka grpconf 2025
 - [Reducing gRPC Call Volume Through Caching and Batching](https://www.youtube.com/watch?v=rym3kE8XEM4) - Benjamin Fedorka grpconf 2024
 - [How Netflix Makes gRPC Easy to Serve, Consume, and Operate](https://www.youtube.com/watch?v=NTf_2bzD7xM) - Benjamin Fedorka grpconf 2023
